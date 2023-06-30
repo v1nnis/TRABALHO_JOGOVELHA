@@ -1,0 +1,3 @@
+Este código implementa um jogo da velha no qual o jogador enfrenta uma inteligência que utiliza o algoritmo Minimax com busca em profundidade e busca em largura para tomar suas decisões. O jogo é executado no console usando a biblioteca curses. O jogador inicia o jogo e pode fazer sua jogada digitando a posição desejada (linha e coluna). O algoritmo da inteligência realiza suas jogadas automaticamente. O jogo continua até que um jogador vença ou ocorra um empate. Após cada partida, é dada a opção de jogar novamente ou sair do programa.
+
+O código é intuitivo e o console irá te guiar como prosseguir com o jogo.
